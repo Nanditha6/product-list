@@ -1,0 +1,121 @@
+{
+    "products" : [
+                {
+                    "productID":"2345",
+                    "title" : "Here & Now",
+                    "detail" : "Printed A-Line Top",
+                    "price" : "Rs.594",
+                    "offer" : "30% off",
+                    "image": "/images/product11.jpg",
+                    "size" : ["XS","L"]
+                },
+                {
+                    "productID":"2346",
+                    "title" : "RARE Roots",
+                    "detail" : "Printed Top",
+                    "price" : "Rs.340",
+                    "offer" : "50% off",
+                    "image": "/images/product12.jpg",
+                    "size" : ["XS","L"]
+                },
+                {
+                    "productID":"2347",
+                    "title" : "Tommy Hilfiger",
+                    "detail" : "Solid V-Neck Top",
+                    "price" : "Rs.1099",
+                    "offer" : "",
+                    "image": "/images/product13.jpg",
+                    "size" : ["XS","S","L","XL"]
+                },
+                {
+                    "productID":"2348",
+                    "title" : "MANGO",
+                    "detail" : "Solid Neck Tee",
+                    "price" : "Rs.690",
+                    "offer" : "",
+                    "image": "/images/product17.jpg",
+                    "size" : ["M","L","XL"]
+                },
+                {
+                    "productID":"2349",
+                    "title" : "Mayra",
+                    "detail" : "Printed A-Line Top",
+                    "price" : "Rs.594",
+                    "offer" : "20% off",
+                    "image": "/images/product15.jpg",
+                    "size" : ["S"]
+                },
+                {
+                    "productID":"2350",
+                    "title" : "Black and white Shirt",
+                    "detail" : "Stripped black and white shirt",
+                    "price" : "Rs.594",
+                    "offer" : "20% off",
+                    "image": "/images/product16.jpg",
+                    "size" : ["XS","S","L","XL"]
+                },
+                {
+                    "productID":"2351",
+                    "title" : "Solid Cotton Shrug",
+                    "detail" : "Printed A-Line Top",
+                    "price" : "Rs.334",
+                    "offer" : "20% off",
+                    "image": "/images/product14.jpg",
+                    "size" : ["XS","S"]
+                },
+                {
+                    "productID":"2352",
+                    "title" : "Green & Pink Floral Print Sheer",
+                    "detail" : "Printed A-Line Top",
+                    "price" : "Rs.1200",
+                    "offer" : "20% off",
+                    "image": "/images/product18.jpg",
+                    "size" : ["M","L","XL"]
+                },
+                {
+                    "productID":"2353",
+                    "title" : "White Self Design",
+                    "detail" : "Printed A-Line Top",
+                    "price" : "Rs.476",
+                    "offer" : "20% off",
+                    "image": "/images/product19.jpg",
+                    "size" : ["XL"]
+                },
+                {
+                    "productID":"2354",
+                    "title" : "Women Maxi-Dress",
+                    "detail" : "Printed A-Line Top",
+                    "price" : "Rs.700",
+                    "offer" : "20% off",
+                    "image": "/images/product20.jpg",
+                    "size" : ["S","M","L"]
+                },
+                {
+                    "productID":"2355",
+                    "title" : "Floral Maxi Dress",
+                    "detail" : "Printed A-Line Top",
+                    "price" : "Rs.476",
+                    "offer" : "20% off",
+                    "image": "/images/product21.jpg",
+                    "size" : ["S","M","L","XL"]
+                },
+                {
+                    "productID":"2356",
+                    "title" : "White Design Dress",
+                    "detail" : "Printed A-Line Top",
+                    "price" : "Rs.476",
+                    "offer" : "20% off",
+                    "image": "/images/product22.jpg",
+                    "size" : ["M","L"]
+                },
+                {
+                    "productID":"2357",
+                    "title" : "Beige Maxi Dress",
+                    "detail" : "Printed A-Line Top",
+                    "price" : "Rs.476",
+                    "offer" : "20% off",
+                    "image": "/images/product23.jpg",
+                    "size" : ["XS","S"]
+                }
+        ]
+}
